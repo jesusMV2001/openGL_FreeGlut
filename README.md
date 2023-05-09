@@ -2,4 +2,4 @@
 proyecto final de la clase informática gráfica y visualización de la UJA curso 22/23
 
 ## Documentacion
-[a relative link](Documentacion.pdf)
+[Documentacion](Documentacion.pdf)
